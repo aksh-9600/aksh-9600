@@ -1,20 +1,16 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Akshara%20PP&fontSize=35&fontAlignY=35&desc=CSE%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=55" />
 # About Me:
-🎓 I’m a 2nd-year Computer Science Engineering student at T. John Institute of Technology<br>🔭 I’m currently working on data analysis projects using Python and SQL<br>🤝 I’m looking to collaborate on data analytics and beginner-friendly projects<br>🆘 I’m looking for help with improving data visualization and real-world problem solving<br>🌱 I’m currently learning Python, SQL, and data analysis techniques<br>💬 Ask me about Python, SQL, and basic data analytics<br>⚡ Fun fact: I enjoy turning raw data into meaningful insights<br>
+👩‍💻 About Me<br><br>I am a Computer Science student with a strong interest in Data Analytics and data-driven problem solving. I enjoy working with data to uncover insights, build visualizations, and support decision-making through meaningful analysis.<br><br>With a foundation in Python, SQL, and data visualization tools, I am continuously developing my skills in data cleaning, exploratory data analysis (EDA), and dashboard creation. I am particularly interested in applying analytics to real-world problems and building projects that demonstrate practical impact.<br><br>### 🔍 What I’m currently focused on:<br>- Building data analytics and visualization projects  <br>-  Learning advanced analytics and machine learning fundamentals  <br>-  Open to collaborating on data-driven and beginner-friendly projects  <br>-  Ask me about Python, SQL, EDA, and data visualization  
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshara-pp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aksharaprakash33@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aksh-9600&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aksh-9600&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aksh-9600&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aksh-9600&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=aksh-9600&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
